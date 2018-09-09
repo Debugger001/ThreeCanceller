@@ -1,3 +1,9 @@
 # ThreeCancellation
-自己写的带有全面功能的三消游戏（类似消消乐）
-功能包括：交换游戏中两图案块的位置，将当前游戏存档读档（包括在读档时检验数据的完整性），判断消除方块并可以对多次下落的方块进行消除，等等。
+A simple three-cancellation game.
+
+Functions supported:
+  Swap two blocks;
+  Save current game to a file;
+  Load game from saved file (and check if the file has cracked);
+  Sequential cancellation;
+  
